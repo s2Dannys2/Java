@@ -17,6 +17,5 @@ public class Variaveis {
             *Valor
             *Endereço
          */
-        
     }
 }
