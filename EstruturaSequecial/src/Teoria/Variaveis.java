@@ -7,9 +7,9 @@ public class Variaveis {
          
          Exemplos abaixo:
          */
-        int idade = 25;
-        double altura = 1.68;
-        char sexo = 'F';
+        //int idade = 25;
+        //double altura = 1.68;
+        //char sexo = 'F';
         /*
          Uma variável possui:
             *Nome
